@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>KeepAlive</key>
+			<false/>
+		<key>Label</key>
+			<string>com.ziqiwu.autochanger</string>
+		<key>ProgramArguments</key>
+			<array>
+				<string>osascript</string>
+				<string>/Users/自己的用户名/Desktop/auto_background_changer.scpt</string>
+			</array>
+		<key>StartInterval</key>
+			<integer>10000</integer>
+	</dict>
+</plist>
